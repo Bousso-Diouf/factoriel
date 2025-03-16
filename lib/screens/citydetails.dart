@@ -6,6 +6,7 @@ class CityDetailScreen extends StatelessWidget {
   final double temperature;
   final String cloudCoverage;
   final double? latitude;
+
   final double? longitude;
 
   CityDetailScreen({
